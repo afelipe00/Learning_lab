@@ -55,16 +55,5 @@ Para poder sacarle el máximo provecho a un editor de texto es importante conoce
 | **Ir al Final de la Palabra**             | `alt + →`         | `ctrl + →`         | `ctrl + →`         |
 
 
-
-
-
-
-
-
-
-
-
-
-
 https://filisantillan.com/blog/vscode-atajos/
 
